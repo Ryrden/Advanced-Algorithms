@@ -1,0 +1,7 @@
+#compiled C code
+main
+
+# Executables
+*.exe
+*.out
+*.app
