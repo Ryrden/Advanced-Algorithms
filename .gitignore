@@ -1,6 +1,9 @@
 #compiled C code
 main
 
+#test cases
+*.txt
+
 # Executables
 *.exe
 *.out
